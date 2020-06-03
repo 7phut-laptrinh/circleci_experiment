@@ -14,7 +14,6 @@ module.exports = {
   },
   rules: {
     semi: ['error', 'always', { omitLastInOneLineBlock: true }],
-    'space-before-function-paren': ['error', 'never'],
     'comma-dangle': [
       'error',
       {
